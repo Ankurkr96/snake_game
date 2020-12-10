@@ -11,7 +11,7 @@ To run this program :
 
 **************************
 
-Project designed by: Ankur Kumar Agarwal
+Project designed by: Er. Ankur Kumar Agarwal
 
 email: ankuragarwal740@gmail.com
 
