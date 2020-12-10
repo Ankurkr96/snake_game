@@ -1,6 +1,6 @@
 # snake_game
 ------------------------------
-this snake is designed using python GUI.
+This snake_game is designed using python GUI tool Tkinter.
 
 To run this program :
   Download the source code : github.com/Ankurkr96/snake_game
